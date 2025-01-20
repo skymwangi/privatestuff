@@ -1,0 +1,21 @@
+h2{
+    color: aqua;
+    text-align: center;
+    font-family: "Fira Code Medium";
+    font-size: 30px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    color: gray;
+}
+th{
+    color: orangered;
+    font-family: Inconsolata;
+}

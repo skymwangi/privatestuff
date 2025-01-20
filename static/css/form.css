@@ -1,0 +1,9 @@
+form{
+    background-color: #00ff66;
+}
+label{
+    color: red;
+    background-color: #030600;
+    text-align: start;
+    font-size: 20px;
+}

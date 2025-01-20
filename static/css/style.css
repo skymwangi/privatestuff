@@ -1,0 +1,35 @@
+.fruits{
+    border: 2px solid yellowgreen;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+    color: #030600;
+    padding: 10px;
+    margin: 10px;
+}
+.cars{
+    border: 2px solid blueviolet;
+    background-color: #030600;
+    text-align: justify;
+    font-size: 25px;
+    color: orange;
+    padding: 5px;
+    margin: 0px;
+}
+.cities{
+    border: 2px dotted rosybrown;
+    background-color: peru;
+    text-align: -moz-center;
+    font-size: 30px;
+    color: white;
+    padding: 0px;
+    margin: 5px;
+}
+.mitchelle{
+    width: 100%;
+    overflow: auto;
+}
+.mitchelle div{
+    width: 33%;
+    float: left;
+}
